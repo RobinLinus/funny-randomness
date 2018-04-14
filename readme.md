@@ -1,8 +1,12 @@
 # Funny Randomness
 
-The usability of passwords is broken. This is a minimum viable prototype of a [mnemonic device](https://en.wikipedia.org/wiki/Mnemonic) to memorize strong passwords effortlessly.
+The usability of passwords is broken. This project is a minimum viable prototype of a [mnemonic device](https://en.wikipedia.org/wiki/Mnemonic) to memorize strong passwords effortlessly.
 
-It generates 'stories' of the format `[person1] [action] [person2]'s [object]`. The resulting stories are intended to provoke mental images that are funny or absurd, because humor is well known to be helpful for learning.
+
+[Check out the demo!](https://robinlinus.github.io/funny-randomness/)
+
+
+It generates simple 'stories' of the format `[person1] [action] [person2]'s [object]`. The resulting stories are intended to provoke mental images that are funny or absurd, because humor is well known to be helpful for learning.
 
 ## Related Work
 
