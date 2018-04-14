@@ -8,9 +8,9 @@ It generates 'stories' of the format `[person1] [action] [person2]'s [object]`. 
 
 - [Bruce Schneier: Changes in Password Best Practices](https://www.schneier.com/blog/archives/2017/10/changes_in_pass.html)
 - [Bruce Schneier: Choosing Secure Passwords](https://www.schneier.com/blog/archives/2014/03/choosing_secure_1.html)
-- https://www.kaspersky.com/blog/remember-strong-passwords/6386/
-- https://arxiv.org/pdf/1302.5122.pdf
-- https://arxiv.org/pdf/1410.1490v1.pdf
+- [Kaspersky: Remember Strong Passwords](https://www.kaspersky.com/blog/remember-strong-passwords/6386/)
+- [Naturally Rehearsing Passwords](https://arxiv.org/pdf/1302.5122.pdf)
+- [Spaced Repetition and Mnemonics Enable Recall of Multiple Strong Passwords](https://arxiv.org/pdf/1410.1490v1.pdf)
 
 ## Word Lists
 - Persons
@@ -22,7 +22,7 @@ It generates 'stories' of the format `[person1] [action] [person2]'s [object]`. 
 
 ## Experiments
 
-First results of the evaluation of this prototype:
+Informal results of the evaluation of this prototype:
 - Users perceived the random stories to be funny.
 - Users liked to generate stories.
 - Users had individual emotional attachment to different stories.
